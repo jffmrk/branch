@@ -1,0 +1,5 @@
+##
+## App release version - auto incremented
+##
+
+RELEASE_VERSION=1.0.0
